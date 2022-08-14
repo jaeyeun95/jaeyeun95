@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 👋  Hi!
    
 * Solugate - VA Service Platform (21.04.05 ~ 21.12.31) <!-- virtual agent -->
-* UneedComms -  (22.02.21 ~ 22.08.05) 
+* UneedComms -  (22.02.21 ~ 22.08.05)  
 
 
 💪 Skills
