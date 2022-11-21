@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...   
 -->
  
-👋  Hi!
+👋  Hi!  
    
 * Solugate - VA Service Platform (21.04 ~ 21.12) <!-- virtual agent -->
 * UneedComms -  (22.02 ~ 22.08)  
